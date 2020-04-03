@@ -1,0 +1,30 @@
+E:\data\Lab2\diger\bin\Debug\Images\Digger.png
+E:\data\Lab2\diger\bin\Debug\Images\Gold.png
+E:\data\Lab2\diger\bin\Debug\Images\Monster.png
+E:\data\Lab2\diger\bin\Debug\Images\Sack.png
+E:\data\Lab2\diger\bin\Debug\Images\Terrain.png
+E:\data\Lab2\diger\bin\Debug\11-digger.exe.config
+E:\data\Lab2\diger\bin\Debug\11-digger.exe
+E:\data\Lab2\diger\bin\Debug\11-digger.pdb
+E:\data\Lab2\diger\bin\Debug\nunit.framework.dll
+E:\data\Lab2\diger\obj\Debug\Digger.csprojAssemblyReference.cache
+E:\data\Lab2\diger\obj\Debug\Digger.Properties.Resources.resources
+E:\data\Lab2\diger\obj\Debug\Digger.csproj.GenerateResource.cache
+E:\data\Lab2\diger\obj\Debug\Digger.csproj.CopyComplete
+E:\data\Lab2\diger\obj\Debug\11-digger.exe
+E:\data\Lab2\diger\obj\Debug\11-digger.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\obj\Debug\11-digger.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\obj\Debug\11-digger.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\Images\Digger.png
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\Images\Gold.png
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\Images\Monster.png
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\Images\Sack.png
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\Images\Terrain.png
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\11-digger.exe.config
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\11-digger.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\11-digger.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\bin\Debug\nunit.framework.dll
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\diger\obj\Debug\Digger.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\bin\Debug\GeometryPainting.exe.config
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\bin\Debug\GeometryPainting.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\bin\Debug\GeometryPainting.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\bin\Debug\GeometryTasks.dll
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\bin\Debug\GeometryTasks.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\obj\Debug\GeometryPainting.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\obj\Debug\GeometryPainting.csproj.CopyComplete
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\obj\Debug\GeometryPainting.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\obj\Debug\GeometryPainting.pdb

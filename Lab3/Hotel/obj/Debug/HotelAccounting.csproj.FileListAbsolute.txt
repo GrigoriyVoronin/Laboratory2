@@ -1,0 +1,13 @@
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\bin\Debug\HotelAccounting.exe.config
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\bin\Debug\HotelAccounting.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\bin\Debug\HotelAccounting.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\MainWindow.g.cs
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\MainWindow.baml
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting.g.resources
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Hotel\obj\Debug\HotelAccounting.pdb

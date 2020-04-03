@@ -1,0 +1,9 @@
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\bin\Debug\brainfuck.exe.config
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\bin\Debug\brainfuck.exe
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\bin\Debug\brainfuck.pdb
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\bin\Debug\nunit.framework.dll
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\bin\Debug\nunitlite.dll
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\obj\Debug\func-brainfuck.csproj.CopyComplete
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\obj\Debug\brainfuck.exe
+C:\Users\molch\Desktop\Разработка\С#\2 сем\Lab8\func-brainfuck.csproj\obj\Debug\brainfuck.pdb

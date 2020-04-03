@@ -1,0 +1,6 @@
+\\vdiprofile\up$\st551-05\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\vdiprofile\up$\st551-05\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\vdiprofile\up$\st551-05\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+\\vdiprofile\up$\st551-05\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+\\vdiprofile\up$\st551-05\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\vdiprofile\up$\st551-05\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

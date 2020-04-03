@@ -1,0 +1,14 @@
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\Texts\0.txt
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\Texts\1.txt
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\Texts\2.txt
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\Texts\4.txt
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\PocketGoogle.exe.config
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\PocketGoogle.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\PocketGoogle.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\bin\Debug\nunit.framework.dll
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\obj\Debug\PocketGoogle.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\obj\Debug\PocketGoogle.Properties.Resources.resources
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\obj\Debug\PocketGoogle.csproj.CopyComplete
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\obj\Debug\PocketGoogle.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab3\Google\obj\Debug\PocketGoogle.pdb

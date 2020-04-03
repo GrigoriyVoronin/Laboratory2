@@ -1,0 +1,6 @@
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ConsoleApp1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

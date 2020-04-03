@@ -1,0 +1,4 @@
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ClassLibrary1\bin\Debug\GeometryTasks.dll
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ClassLibrary1\bin\Debug\GeometryTasks.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ClassLibrary1\obj\Debug\GeometryTasks.dll
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab1\ClassLibrary1\obj\Debug\GeometryTasks.pdb

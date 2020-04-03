@@ -1,0 +1,6 @@
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\minilab\obj\Debug\minilab.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\minilab\bin\Debug\minilab.exe.config
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\minilab\bin\Debug\minilab.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\minilab\bin\Debug\minilab.pdb
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\minilab\obj\Debug\minilab.exe
+C:\Users\molch\Desktop\синх\С#\2 сем\Lab2\minilab\obj\Debug\minilab.pdb
