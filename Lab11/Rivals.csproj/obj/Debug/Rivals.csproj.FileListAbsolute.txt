@@ -1,0 +1,15 @@
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Dungeons\Dungeon1.txt
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Dungeons\Dungeon2.txt
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Dungeons\Dungeon3.txt
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Dungeons\Dungeon4.txt
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Rivals.exe.config
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Rivals.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\Rivals.pdb
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\bin\Debug\nunit.framework.dll
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.Properties.Resources.resources
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.csproj.GenerateResource.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.csproj.CopyComplete
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab11\Rivals.csproj\obj\Debug\Rivals.pdb
