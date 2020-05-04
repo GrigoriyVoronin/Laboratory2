@@ -14,61 +14,45 @@ namespace Rivals
             {MoveDirection.Right, new Size(1, 0)}
         };
 
-        private static bool WalkInDirection(Map map, OwnedLocation position, MoveDirection direction,
-            out OwnedLocation newPoint)
+        private static bool TryGoInDirection(Map map, OwnedLocation position, MoveDirection direction,
+            out OwnedLocation potentialPoint)
         {
-            newPoint = new OwnedLocation(position.Owner, position.Location + OffsetToDirection[direction], position.Distance + 1);
-            return map.InBounds(newPoint.Location) &&
-                   map.Maze[newPoint.Location.X, newPoint.Location.Y] == MapCell.Empty;
+            potentialPoint = new OwnedLocation(
+                position.Owner,
+                position.Location + OffsetToDirection[direction],
+                position.Distance + 1);
+            return map.InBounds(potentialPoint.Location) &&
+                   map.Maze[potentialPoint.Location.X, potentialPoint.Location.Y] == MapCell.Empty;
         }
 
         public static IEnumerable<OwnedLocation> AssignOwners(Map map)
         {
-            var players = map.Players;
             var queues = new List<Queue<OwnedLocation>>();
-            var visited = new HashSet<Point>();
-
-            var owned = new HashSet<OwnedLocation>();
-            var distanse = 0;
-            for (var i = 0; i < players.Length; i++)
-            {
-                queues.Add(new Queue<OwnedLocation>());
-                var p = new OwnedLocation(i, map.Players[i], distanse);
-                queues[i].Enqueue(p);
-                owned.Add(p);
-            }
-
-            while (queues.Count > 0)
-            {
-                for (var j = 0; j < queues.Count; j++)
+            var occupied = new HashSet<Point>();
+            InitPlayers(queues, occupied, map);
+            while (queues.Count(x => x.Count > 0) > 0)
+                foreach (var queue in queues.Where(x => x.Count > 0))
                 {
-                    if (queues[j].Count == 0)
-                    {
-                        queues.RemoveAt(j);
-                        continue;
-                    }
-
-                    var currentPoint = queues[j].Dequeue();
-                    if (!visited.Add(currentPoint.Location))
-                        continue;
-
-                    if (!owned.Contains(currentPoint))
+                    var currentPoint = queue.Dequeue();
+                    if (!occupied.Contains(currentPoint.Location))
                         continue;
 
                     yield return currentPoint;
 
                     for (var i = 0; i < 4; i++)
-                        if (WalkInDirection(map, currentPoint, (MoveDirection) i, out var newPoint))
-                        {
-                            if (!visited.Contains(newPoint.Location) && owned.All(x => x.Location != newPoint.Location))
-                            {
-                                queues[j].Enqueue(newPoint);
-                                owned.Add(newPoint);
-                            }
-                        }
+                        if (TryGoInDirection(map, currentPoint, (MoveDirection) i, out var newPoint) &&
+                            !occupied.Contains(newPoint.Location) && occupied.Add(newPoint.Location))
+                            queue.Enqueue(newPoint);
                 }
+        }
 
-                distanse++;
+        private static void InitPlayers(List<Queue<OwnedLocation>> queues, HashSet<Point> occupied, Map map)
+        {
+            for (var i = 0; i < map.Players.Length; i++)
+            {
+                queues.Add(new Queue<OwnedLocation>());
+                queues[i].Enqueue(new OwnedLocation(i, map.Players[i], 0));
+                occupied.Add(map.Players[i]);
             }
         }
 
@@ -76,8 +60,8 @@ namespace Rivals
         {
             Right,
             Up,
-            Left,
-            Down
+            Down,
+            Left
         }
     }
 }
