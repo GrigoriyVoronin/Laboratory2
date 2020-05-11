@@ -1,0 +1,10 @@
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\bin\Debug\DiskTree.exe.config
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\bin\Debug\DiskTree.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\bin\Debug\DiskTree.pdb
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\bin\Debug\nunit.framework.dll
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\bin\Debug\nunitlite.dll
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\obj\Debug\DiskTree.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\obj\Debug\DiskTree.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\obj\Debug\DiskTree.csproj.CopyComplete
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\obj\Debug\DiskTree.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\DiskTree.csproj\obj\Debug\DiskTree.pdb

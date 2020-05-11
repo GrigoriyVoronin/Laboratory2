@@ -1,11 +1,27 @@
 ﻿using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using NUnit.Framework;
 
 namespace Rivals
 {
     public class RivalsTask
     {
+        public static IEnumerable<OwnedLocation> AssignOwners(Map map)
+        {
+            var queueM = new Queue<OwnedLocation>();
+            InitPlayers(queueM, map);
+            while (queueM.Count > 0)
+            {
+                var currentPoint = queueM.Dequeue();
+                yield return currentPoint;
+
+                for (var i = 0; i < 4; i++)
+                    if (TryGoInDirection(map, currentPoint, (MoveDirection) i, out var newPoint))
+                        queueM.Enqueue(newPoint);
+            }
+        }
+
         private static readonly Dictionary<MoveDirection, Size> OffsetToDirection = new Dictionary<MoveDirection, Size>
         {
             {MoveDirection.Up, new Size(0, -1)},
@@ -21,38 +37,20 @@ namespace Rivals
                 position.Owner,
                 position.Location + OffsetToDirection[direction],
                 position.Distance + 1);
-            return map.InBounds(potentialPoint.Location) &&
-                   map.Maze[potentialPoint.Location.X, potentialPoint.Location.Y] == MapCell.Empty;
+            if (!map.InBounds(potentialPoint.Location) ||
+                map.Maze[potentialPoint.Location.X, potentialPoint.Location.Y] != MapCell.Empty)
+                return false;
+
+            map.Maze[potentialPoint.Location.X, potentialPoint.Location.Y] = MapCell.Wall;
+            return true;
         }
 
-        public static IEnumerable<OwnedLocation> AssignOwners(Map map)
-        {
-            var queues = new List<Queue<OwnedLocation>>();
-            var occupied = new HashSet<Point>();
-            InitPlayers(queues, occupied, map);
-            while (queues.Count(x => x.Count > 0) > 0)
-                foreach (var queue in queues.Where(x => x.Count > 0))
-                {
-                    var currentPoint = queue.Dequeue();
-                    if (!occupied.Contains(currentPoint.Location))
-                        continue;
-
-                    yield return currentPoint;
-
-                    for (var i = 0; i < 4; i++)
-                        if (TryGoInDirection(map, currentPoint, (MoveDirection) i, out var newPoint) &&
-                            !occupied.Contains(newPoint.Location) && occupied.Add(newPoint.Location))
-                            queue.Enqueue(newPoint);
-                }
-        }
-
-        private static void InitPlayers(List<Queue<OwnedLocation>> queues, HashSet<Point> occupied, Map map)
+        private static void InitPlayers(Queue<OwnedLocation> queueM, Map map)
         {
             for (var i = 0; i < map.Players.Length; i++)
             {
-                queues.Add(new Queue<OwnedLocation>());
-                queues[i].Enqueue(new OwnedLocation(i, map.Players[i], 0));
-                occupied.Add(map.Players[i]);
+                queueM.Enqueue(new OwnedLocation(i, map.Players[i], 0));
+                map.Maze[map.Players[i].X, map.Players[i].Y] = MapCell.Wall;
             }
         }
 

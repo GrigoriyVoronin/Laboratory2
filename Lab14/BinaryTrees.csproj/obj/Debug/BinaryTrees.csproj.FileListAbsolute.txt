@@ -1,0 +1,10 @@
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\bin\Debug\BinaryTrees.exe.config
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\bin\Debug\BinaryTrees.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\bin\Debug\BinaryTrees.pdb
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\bin\Debug\nunit.framework.dll
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\bin\Debug\nunitlite.dll
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\obj\Debug\BinaryTrees.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\obj\Debug\BinaryTrees.csproj.CopyComplete
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\obj\Debug\BinaryTrees.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2 сем\Lab14\BinaryTrees.csproj\obj\Debug\BinaryTrees.pdb
