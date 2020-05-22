@@ -1,0 +1,10 @@
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.MainForm.resources
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.Properties.Resources.resources
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.GenerateResource.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\StringMethods\StringMethods\obj\Debug\StringMethods.pdb

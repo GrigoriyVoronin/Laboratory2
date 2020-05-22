@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc60fa59-d49d-45b9-8811-9a9836e6a54f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bu5lKR20F2Pbw7IaXlZyTdKu9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite.xerial&#10;sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="943" y="460" key="#Notifications" timestamp="1589628280882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="943" y="460" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1589628280882" />
+    <state x="443" y="576" key="#SQL_Dialects" timestamp="1589628675751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="576" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1589628675751" />
+    <state x="772" y="330" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589628388221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="330" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589628388221" />
+    <state x="801" y="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589469337981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="414" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589469337981" />
+    <state x="686" y="344" key="FileChooserDialogImpl" timestamp="1589628216192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="344" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589628216192" />
+    <state width="1066" height="173" key="GridCell.Tab.0.bottom" timestamp="1589628700495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1066" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589628700495" />
+    <state width="1066" height="173" key="GridCell.Tab.0.center" timestamp="1589628700495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1066" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589628700495" />
+    <state width="1066" height="173" key="GridCell.Tab.0.left" timestamp="1589628700495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1066" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589628700495" />
+    <state width="1066" height="173" key="GridCell.Tab.0.right" timestamp="1589628700495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1066" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589628700495" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1589628368100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1589628368100" />
+  </component>
+</project>

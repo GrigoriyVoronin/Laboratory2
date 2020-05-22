@@ -1,0 +1,12 @@
+C:\Users\molch\Desktop\polina\SimpleNumbersThreads\bin\Debug\SimpleNumbersThreads.exe
+C:\Users\molch\Desktop\polina\SimpleNumbersThreads\bin\Debug\SimpleNumbersThreads.pdb
+C:\Users\molch\Desktop\polina\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\polina\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\polina\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.exe
+C:\Users\molch\Desktop\polina\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.pdb
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\SimpleNumbersThreads\bin\Debug\SimpleNumbersThreads.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\SimpleNumbersThreads\bin\Debug\SimpleNumbersThreads.pdb
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.csprojAssemblyReference.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.csproj.CoreCompileInputs.cache
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.exe
+C:\Users\molch\Desktop\Razrabotka\С#\2к\Програмная инженерия\SimpleNumbersThreads\obj\Debug\SimpleNumbersThreads.pdb

@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -8,7 +9,7 @@ namespace DiskTree
     {
         public static IEnumerable Solve(List<string> input)
         {
-            var main = new Node(null, "main");
+            var main = new Node("main", -1);
             foreach (var directories in input
                 .Select(path => path.Split('\\')))
                 AddPathToTree(directories, main);
@@ -20,7 +21,7 @@ namespace DiskTree
         {
             foreach (var directory in main.SubDirectories)
             {
-                directorys.Add(new string(' ', directory.Level - 1) + directory.Name);
+                directorys.Add(new string(' ', directory.Level) + directory.Name);
                 directorys = CreateDirectorysEnumerable(directory, directorys);
             }
 
@@ -36,7 +37,7 @@ namespace DiskTree
                 currentNode = currentNode.SubDirectories.FirstOrDefault(x => x.Name == directory);
                 if (currentNode == null)
                 {
-                    var newNode = new Node(parent, directory);
+                    var newNode = new Node(directory, parent.Level + 1);
                     parent.SubDirectories.Add(newNode);
                     currentNode = newNode;
                 }
@@ -47,10 +48,10 @@ namespace DiskTree
 
         private sealed class Node
         {
-            public Node(Node parent, string name)
+            public Node(string name, int level)
             {
                 Name = name;
-                Level = parent?.Level + 1 ?? 0;
+                Level = level;
             }
 
             public string Name { get; }
